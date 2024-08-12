@@ -22,5 +22,22 @@ Welcome to my personal portfolio website! I’m Lakmal Premathilaka, a dedicated
 
 ## 📸 Screen Shot
 
-### 📸 Home
+### Home Section
 
+![Homesection](image/home.PNG)
+
+### About Section
+
+![Aboutsection](image/about.PNG)
+
+### Skills Section
+
+![Skillssection](image/skill.PNG)
+
+### Project Section
+
+![Projectsection](image/project.PNG)
+
+### Contact Section
+
+![Contactsection](image/contact.PNG)
