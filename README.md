@@ -36,7 +36,7 @@ Welcome to my personal portfolio website! I’m Lakmal Premathilaka, a dedicated
 
 ### Project Section
 
-![Projectsection](image/project.PNG)
+![Projectsection](image/Project.PNG)
 
 ### Contact Section
 
