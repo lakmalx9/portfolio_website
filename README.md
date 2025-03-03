@@ -24,20 +24,20 @@ Welcome to my personal portfolio website! I’m Lakmal Premathilaka, a dedicated
 
 ### Home Section
 
-![Homesection](image/homen.png)
+![Homesection](imagen/homen.png)
 
 ### About Section
 
-![Aboutsection](image/about.png)
+![Aboutsection](imagen/about.png)
 
 ### Skills Section
 
-![Skillssection](image/skill.png)
+![Skillssection](imagen/skill.png)
 
 ### Project Section
 
-![Projectsection](image/project.png)
+![Projectsection](imagen/project.png)
 
 ### Contact Section
 
-![Contactsection](image/contact.png)
+![Contactsection](imagen/contact.png)
