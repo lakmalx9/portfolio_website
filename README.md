@@ -24,7 +24,7 @@ Welcome to my personal portfolio website! I’m Lakmal Premathilaka, a dedicated
 
 ### Home Section
 
-![Homesection](image/home.png)
+![Homesection](image/homen.png)
 
 ### About Section
 
