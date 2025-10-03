@@ -167,7 +167,8 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    padding-top: 0%;
+    gap: 1rem;
     background: rgba(38,43,64,255);
 }
 
